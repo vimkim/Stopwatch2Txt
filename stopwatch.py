@@ -1,6 +1,6 @@
 import time
 
-def stopwatch(seconds):
+def stopwatch():
     start = time.time()
     time.clock()    
     count_file = open("secs.txt","r")
@@ -21,5 +21,4 @@ def stopwatch(seconds):
         count_file.close()
         time.sleep(1)  
 
-
-stopwatch(20)
+stopwatch()
