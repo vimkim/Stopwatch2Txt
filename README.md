@@ -28,9 +28,9 @@ However, if you want a very specific starting point such as '01:05:12', type '39
     python3 stopwatch.py
     ```
 
-00. If you want to pause the stopwatch, press <Ctrl c>.
+00. If you want to pause the stopwatch, press "Ctrl c".
 00. If you want to resume the stopwatch, type `python3 stopwatch.py` again in the terminal.
-00. If you want to reset the stopwatch, press <Ctrl c> and replace the first line of 'secs.txt' to 0. (as already explained above).
+00. If you want to reset the stopwatch, press "Ctrl c" and replace the first line of 'secs.txt' to 0. (as already explained above).
 3. That's it! If you check the 'stopwatch.txt' file, you will see that the file is constantly being updated. You can use this wherever you want. e.g. OBS text source
 
 
