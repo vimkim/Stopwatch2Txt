@@ -21,7 +21,7 @@ This is an example of using Stopwatch2Txt. (OBS text capture : 'Read text from f
 00. Download the whole repository using `git clone https://github.com/dqgthb/Stopwatch2Txt.git`
 00. Go inside the directory. Find 'secs.txt'.
 1. Replace (manually) the first line of 'secs.txt' with your preferred starting seconds (in integer). To initialize the stopwatch, this should be '0'.  
-However, if you want a very specific starting point such as '01:05:12', type '3912' (= 1*3600 + 5*60 + 12).
+However, if you want a very specific starting point such as '01:05:12', type '3912' (= 1 \* 3600 + 5 \* 60 + 12).
 2. Run the python code 'stopwatch.py' by typing the following command inside the terminal:
 
     ```python
